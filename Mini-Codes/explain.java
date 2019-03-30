@@ -1,1 +1,0 @@
-/* This folder is available so you can post your mini programs in.. */
